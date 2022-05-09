@@ -1,0 +1,17 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Javascript",
+    "React",
+    "Webpack"
+  ],
+  "author": "Trybukhouski <trybukhouskij@gmail.com>",
+  "license": "ISC"
+}
