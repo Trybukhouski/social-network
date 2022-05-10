@@ -5,6 +5,7 @@ import React from 'react';
 import {render} from 'react-dom';
 
 const post = new Post('Webpack post title');
+const a = 2;
 
 console.log('Post to string:', post.toString());
 
